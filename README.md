@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi im paul! 👋
 
-<!--
-**paulustimothy/paulustimothy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a passionate developer and student, focusing on AI and web technologies. I love building interactive experiences and sharing knowledge with the community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently a Computer Science student
+- 💻 Focused on becoming a Full-Stack Web Developer (and exploring Mobile Apps)
+- 📚 Currently learning and improving every day in web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,c,cpp,php,laravel,py,figma)](https://skillicons.dev)
+
+- JS & TS for web development
+- React & Nextjs form modern web development
+- PHP & Laravel for backend development
+- C & C++ for system programming
+- Python for learning AI
+- Figma for creating design
+
+## 📬 Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:paulustimothy011@gmail.com)
+
+Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
+
