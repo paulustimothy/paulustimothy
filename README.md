@@ -12,12 +12,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=paulustimothy.paulustimothy&"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=paulustimothy&no-bg=true&no-frame=false&margin-h=10&margin-w=10&row=2&column=3&theme=radical" height="150" alt="trophy graph"  />
 </div>
 
