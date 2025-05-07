@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=paulustimothy&no-bg=true&no-frame=false&margin-h=10&margin-w=10&row=2&column=3&theme=radical" height="250" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=paulustimothy&no-bg=true&no-frame=false&margin-h=10&margin-w=10&row=2&column=3&theme=radical" height="200" alt="trophy graph"  />
 </div>
 
 ###
