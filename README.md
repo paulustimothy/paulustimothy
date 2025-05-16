@@ -7,9 +7,6 @@
   <a href="mailto:paulustimothy011@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
   </a>
-  <a href="https://leetcode.com/u/paulustimothy">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpaulustimothy&logo=leetcode&logoColor=yellow" height="25" />
-  </a>
 </div>
 
 ###
