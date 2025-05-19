@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  <a href="mailto:paulustimothy011@gmail.com" target="_blank">
+  <a href="mailto:paulustimothy011@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
   </a>
 </div>
@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <a href="https://leetcode.com/u/paulustimothy" target="_blank">
+  <a href="https://leetcode.com/u/paulustimothy">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpaulustimothy&logo=leetcode&logoColor=yellow" height="25">
   </a>
 </div>
