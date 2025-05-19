@@ -12,6 +12,14 @@
 ###
 
 <div align="center">
+  <a href="https://leetcode.com/u/paulustimothy" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpaulustimothy&logo=leetcode&logoColor=yellow" height="25">
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=paulustimothy&no-bg=true&no-frame=false&margin-h=10&margin-w=10&row=2&column=3&theme=radical" height="200" alt="trophy graph"  />
 </div>
 
