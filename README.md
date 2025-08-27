@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">Engineer 🚀 | Student 🎓 | Tech Enthusiast 💡</p>
+<p align="center">Problem Solver 🚀 | Student 🎓 | Tech Enthusiast 💡</p>
 
 ###
 
