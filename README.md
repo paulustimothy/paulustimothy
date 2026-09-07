@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=paulustimothy&no-bg=true&no-frame=false&margin-h=10&margin-w=10&row=2&column=3&theme=radical" height="200" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=paulustimothy&theme=radical&no-bg=true&no-frame=false&margin-w=15&margin-h=15&row=1&column=4" alt="Paulustimothy's GitHub profile trophies" />
 </div>
 
 ###
